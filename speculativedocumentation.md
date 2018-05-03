@@ -1,4 +1,8 @@
 # panorama watch
+
+#### designer: Ciel Wang
+
+#### email: ywang71@saic.edu
 ## “Understand the world and hold it in hands”
 
 ## Combining with panoramic camera technology and AR recognition
