@@ -29,7 +29,10 @@ you can receive information by sound box as well
 -*bestclimbers* mode: the watch can identify your current position(connect to Google map)
 the screen will show you best climbing route
 and the watch can save images you like
+
 ![climber](climber.png)
 
 
--bluetooth:
+-bluetooth: connect to your headphone
+
+-advantages: capture your nearby scenes, recognize by using AR technology. The only information you need to provide is the panoramic photo, and the watch can give you exact and efficient feedback.
